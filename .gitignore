@@ -42,7 +42,10 @@ uniface/benchmark_db/
 yolo_arcface_results/
 yolo_arcface_results_v2/
 yolo_arcface_results_v3/
-yolo_arcface_results_v4/
+yolo_arcface_results_v4/embeddings/
+yolo_arcface_results_v4/reports/
+yolo_arcface_results_v4/annotated/
+yolo_arcface_results_v4/aligned_faces/
 yolo_face_test.jpg
 failed_contact_sheet.jpg
 .~lock.*
