@@ -1,0 +1,47 @@
+Unique missed images: 44
+Missed by all four: 28
+
+002303.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+004867.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_117.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_133.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_141.jpg: antelopev2, buffalo_l, buffalo_s
+Actor_150.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_23.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_230.jpg: buffalo_m
+Actor_266.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_33.jpg: buffalo_m
+Actor_344.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_381.jpg: antelopev2, buffalo_l, buffalo_m
+Actor_413.jpg: buffalo_m
+Actor_466.jpg: antelopev2, buffalo_l, buffalo_s
+Actor_518.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_520.jpg: buffalo_m
+Actor_54.jpg: buffalo_m, buffalo_s
+Actor_553.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_555.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_654.jpg: antelopev2, buffalo_l, buffalo_m
+Actor_673.jpg: antelopev2, buffalo_l, buffalo_s
+Actor_690.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_711.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_719.jpg: buffalo_s
+Actor_735.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_808.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_823.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_829.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_839.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_886.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_901.jpg: buffalo_m, buffalo_s
+Actor_902.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_915.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_922.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Actor_989.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Jiri_Marysko.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Josefina_Klusova.jpg: antelopev2, buffalo_l
+Katerina_Hrachovcova.jpg: antelopev2, buffalo_l, buffalo_m
+Kristyna_Kocianova.jpg: buffalo_s
+Marketa_Plankova.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Pavla_Tomicova.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Sandra_Novakova.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
+Vaclav_Postranecky.jpg: buffalo_m
+Veronika_Zilkova.jpg: antelopev2, buffalo_l, buffalo_m, buffalo_s
