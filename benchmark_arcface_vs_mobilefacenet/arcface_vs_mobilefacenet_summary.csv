@@ -1,0 +1,3 @@
+Model,Model Size (MB),Embedding Dimension,Quantization,Inference Latency (Avg ms),Inference Latency (p50 ms),Inference Latency (p95 ms),Throughput (FPS),Mean Impostor Similarity,p99 Impostor Similarity,Max Impostor Similarity
+ArcFace (ONNX / CUDA),129.4,512,FP32,0.88,0.85,1.0,1139.1,0.0092,0.1776,0.6273
+MobileFaceNet (INT8 TFLite),1.54,128,INT8,27.68,27.58,28.82,36.1,0.0886,0.4094,0.7662
