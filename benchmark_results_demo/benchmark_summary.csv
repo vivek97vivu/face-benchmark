@@ -1,0 +1,4 @@
+detector,total_images,detected_images,no_face_images,failed_images,total_faces,detection_rate_percent,avg_latency_ms,p50_latency_ms,p95_latency_ms,p99_latency_ms,fps,total_runtime_seconds
+UniFace_Baseline,5187,5153,34,0,5217,99.34,3.375,3.302,3.753,4.267,296.33,23.27
+SCRFD_500M,5187,5153,34,0,5217,99.34,3.345,3.276,3.706,4.053,298.95,22.26
+RetinaFace_MNET_V2,5187,5187,0,0,5380,100.0,8.348,8.301,8.723,9.296,119.78,48.15
