@@ -1,0 +1,48 @@
+{
+  "load_times": {
+    "AdaFace": 0.2519679100078065,
+    "ArcFace": 0.03432551999867428,
+    "EdgeFace": 0.06290687499858905,
+    "MobileFace": 0.025708225992275402,
+    "SphereFace": 0.28062421300273854
+  },
+  "database_stats": {
+    "AdaFace": {
+      "build_time": 31.665706861997023,
+      "new_or_updated": 537,
+      "reused": 0,
+      "failed": 32,
+      "total": 537
+    },
+    "ArcFace": {
+      "build_time": 27.143811715999618,
+      "new_or_updated": 537,
+      "reused": 0,
+      "failed": 32,
+      "total": 537
+    },
+    "EdgeFace": {
+      "build_time": 27.62566760298796,
+      "new_or_updated": 537,
+      "reused": 0,
+      "failed": 32,
+      "total": 537
+    },
+    "MobileFace": {
+      "build_time": 28.12471986298624,
+      "new_or_updated": 537,
+      "reused": 0,
+      "failed": 32,
+      "total": 537
+    },
+    "SphereFace": {
+      "build_time": 29.73330700000224,
+      "new_or_updated": 537,
+      "reused": 0,
+      "failed": 32,
+      "total": 537
+    }
+  },
+  "threshold": 0.4,
+  "camera_id": 4
+}

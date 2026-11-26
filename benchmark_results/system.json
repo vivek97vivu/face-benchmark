@@ -1,0 +1,10 @@
+{
+  "cpu_count": 24,
+  "ram_total_gb": 15.219097137451172,
+  "ram_available_gb": 5.969631195068359,
+  "onnxruntime_providers": [
+    "TensorrtExecutionProvider",
+    "CUDAExecutionProvider",
+    "CPUExecutionProvider"
+  ]
+}
