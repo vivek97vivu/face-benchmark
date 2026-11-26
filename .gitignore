@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+my_env/
+ENV/
+
+# Large image directories / datasets
+All_Images/
+employee/
+employees/
+"Real Images"/
+Real Images/
+Selfie/
+failed_images/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+*.tif
+*.tiff
+*.mp4
+*.avi
+
+# Embeddings, binary caches, weights, and large result datasets
+*.pkl
+*.npy
+*.onnx
+*.tflite
+*.pt
+*.pth
+*.weights
+*.bin
+benchmark_db/
+uniface/benchmark_db/
+yolo_arcface_results/
+yolo_arcface_results_v2/
+yolo_arcface_results_v3/
+yolo_arcface_results_v4/
+yolo_face_test.jpg
+failed_contact_sheet.jpg
+.~lock.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
