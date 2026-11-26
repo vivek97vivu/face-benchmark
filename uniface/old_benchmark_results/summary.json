@@ -1,0 +1,91 @@
+{
+  "models": {
+    "AdaFace": {
+      "avg_inference_ms": 2.179162890325115,
+      "p50_inference_ms": 2.051327988738194,
+      "p95_inference_ms": 2.33246898278594,
+      "estimated_embedding_fps": 458.8918086113367,
+      "recognition_rate": 45.30506274340112,
+      "mean_similarity": 0.3819984033516814,
+      "frames": 2311
+    },
+    "ArcFace": {
+      "avg_inference_ms": 1.1614124742604564,
+      "p50_inference_ms": 1.115906983613968,
+      "p95_inference_ms": 1.361704504233785,
+      "estimated_embedding_fps": 861.020543658929,
+      "recognition_rate": 42.059714409346604,
+      "mean_similarity": 0.3642177311812371,
+      "frames": 2311
+    },
+    "EdgeFace": {
+      "avg_inference_ms": 1.8397615603650854,
+      "p50_inference_ms": 1.7912950133904815,
+      "p95_inference_ms": 2.06986149714794,
+      "estimated_embedding_fps": 543.5486975831576,
+      "recognition_rate": 39.29035049762008,
+      "mean_similarity": 0.39373340765566395,
+      "frames": 2311
+    },
+    "MobileFace": {
+      "avg_inference_ms": 1.3958551833021835,
+      "p50_inference_ms": 1.1491140176076442,
+      "p95_inference_ms": 1.269693995709531,
+      "estimated_embedding_fps": 716.4066960257966,
+      "recognition_rate": 30.592816962353957,
+      "mean_similarity": 0.3377068190864029,
+      "frames": 2311
+    },
+    "SphereFace": {
+      "avg_inference_ms": 1.6478350613615225,
+      "p50_inference_ms": 1.6237770032603294,
+      "p95_inference_ms": 1.7481539980508387,
+      "estimated_embedding_fps": 606.8568532421872,
+      "recognition_rate": 31.761142362613587,
+      "mean_similarity": 0.33198754352725773,
+      "frames": 2311
+    }
+  },
+  "resources": {
+    "system_cpu_percent": {
+      "average": 8.572139303482587,
+      "maximum": 11.5,
+      "minimum": 0.0
+    },
+    "process_cpu_percent": {
+      "average": 73.04726368159204,
+      "maximum": 103.7,
+      "minimum": 0.0
+    },
+    "ram_percent": {
+      "average": 64.75174129353233,
+      "maximum": 65.2,
+      "minimum": 62.8
+    },
+    "gpu_util_percent": {
+      "average": 27.65671641791045,
+      "maximum": 35.0,
+      "minimum": 0.0
+    },
+    "gpu_memory_percent": {
+      "average": 61.24676580293235,
+      "maximum": 62.53220463746779,
+      "minimum": 45.8594037541406
+    },
+    "gpu_memory_used_mb": {
+      "average": 4992.223880597015,
+      "maximum": 5097.0,
+      "minimum": 3738.0
+    },
+    "gpu_temperature_c": {
+      "average": 57.90049751243781,
+      "maximum": 61.0,
+      "minimum": 52.0
+    },
+    "gpu_power_w": {
+      "average": 32.23398009950249,
+      "maximum": 39.8,
+      "minimum": 19.75
+    }
+  }
+}
